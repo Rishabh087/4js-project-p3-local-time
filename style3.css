@@ -1,0 +1,27 @@
+#container{
+   
+    margin-left: 45%;
+}
+
+ p{
+    margin-left: 46%;
+    font-weight: 600;
+    color: white;
+    margin-top: 5%;
+}
+
+#clock{
+    height: 50px;
+    width: 150px;
+    background-color: rgba(241, 210, 8, 0.872);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+}
+
+body{
+    background-image: url("./clock.jpg");
+    background-size: cover;
+}
